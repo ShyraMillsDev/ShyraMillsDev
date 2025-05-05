@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Shyra 👋🏽
 
-<!--
-**ShyraMillsDev/ShyraMillsDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Game Developer | 💻 Creative Coder | 🧠 Neurodivergent Night Builder
 
-Here are some ideas to get you started:
+I'm a creative developer with a passion for immersive storytelling, real-time interaction, and psychological horror games. I specialize in building custom Discord and Twitch bots that engage players through branching narratives, logic puzzles, and live commands.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Projects I've Built:
+- **Soul Trail** – A Twitch/Discord game bot where players race against time and fate
+- **Shadow Trail** – A dark interactive horror story that reacts to player choices
+- **Queen’s Gambit** – A soul-based logic game with high-stakes strategy
+- **Ghost Trail** – A psychological horror game with puzzles, timing, and sacrifice
+
+### 🌙 How I Work
+As a neurodivergent, night-focused developer, I thrive in asynchronous, creative, and focused environments where I can build at my own rhythm. I'm open to freelance, remote, or contract roles in:
+- Game Development
+- Bot & Tool Creation
+- Automation + QA Testing
+
+### 📬 Let's Connect
+- 💻 [LinkedIn](https://linkedin.com/in/your-link-here)
+- 🧠 Portfolio: Coming Soon!
