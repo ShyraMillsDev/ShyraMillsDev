@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://shyramillsdev.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Visit Portfolio-000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge" />
+  </a>
+</p>
+
 # Hi, I'm Shyra 👋🏽
 
 🎮 Game Developer | 💻 Creative Coder | 🧠 Neurodivergent Night Builder
@@ -17,14 +23,21 @@ As a neurodivergent, night-focused developer, I thrive in asynchronous, creative
 - Automation + QA Testing
 
 ### 📬 Let's Connect
-- 💻 [LinkedIn](https://linkedin.com/in/your-link-here)
-- 🧠 Portfolio: Coming Soon!
+- 💻 [LinkedIn](https://www.linkedin.com/in/shyramills)
+- 🧠 Portfolio: https://shyramillsdev.github.io
 
 ---
+
+<p align="center">
+  <a href="https://shyramillsdev.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Visit Portfolio-000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge" />
+  </a>
+</p>
 
 ### ⚠️ Profile Disclaimer
 
 All projects linked here are protected under the **Creative Commons BY-NC-ND 4.0 License**.  
 You may view and share, but reuse or modification without permission is not allowed.  
 Please contact me directly if you’re interested in collaboration or licensing.
+
 📬 Contact: @ShyraMillsDev
