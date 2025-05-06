@@ -19,3 +19,12 @@ As a neurodivergent, night-focused developer, I thrive in asynchronous, creative
 ### 📬 Let's Connect
 - 💻 [LinkedIn](https://linkedin.com/in/your-link-here)
 - 🧠 Portfolio: Coming Soon!
+
+---
+
+### ⚠️ Profile Disclaimer
+
+All projects linked here are protected under the **Creative Commons BY-NC-ND 4.0 License**.  
+You may view and share, but reuse or modification without permission is not allowed.  
+Please contact me directly if you’re interested in collaboration or licensing.
+📬 Contact: @ShyraMillsDev
